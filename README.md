@@ -12,6 +12,6 @@ For these credential:
 2. follow url for creating app:==>https://apps.twitter.com
 
 
-Now initialize NPM and install node modules
-npm install twitter
-npm install fs
+Now install required node modules
+1. if you have cloned this directory then use npm install
+2. Or initialize npm in dir and then install these packeges: npm install twitter, npm install fs
