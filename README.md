@@ -10,3 +10,8 @@ Access Token Secret
 For these credential:
 1. login to your tweeter account
 2. follow url for creating app:==>https://apps.twitter.com
+
+
+Now initialize NPM and install node modules
+npm install twitter
+npm install fs
