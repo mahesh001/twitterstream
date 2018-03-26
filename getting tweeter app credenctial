@@ -1,0 +1,8 @@
+In order to access twitter from node.js application , you'll need to have your app credentials which include the following ::
+Consumer Key
+Consumer Secret
+Access Token Key
+Access Token Secret
+
+1. login your tweeter account
+2. got to Url==>https://apps.twitter.com
